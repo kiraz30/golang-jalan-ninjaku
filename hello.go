@@ -1,5 +1,5 @@
 package gojalanninjaku
 
-func Hello() string {
+func SayHello() string {
 	return "hello"
 }
